@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Olaosun-D/archive1-dipo#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.5",
+    "browser-sync": "^2.27.10",
     "gulp": "^4.0.2",
     "gulp-html-replace": "^1.6.2",
     "gulp-sass": "^4.0.2",
